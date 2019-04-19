@@ -1299,7 +1299,7 @@ h2 {
   }
 
   .contact-box{
-    border: 1px solid #ffbf00;
+    /* border: 1px solid #ffbf00; */
     background: rgba(255, 255, 255, 0.678);
     border-radius: 10px;
     margin:1%;
@@ -1316,7 +1316,7 @@ h2 {
     display: flex;
     justify-content: space-around;
   } */
-  .social li {
+.social li {
     font-size: 22px;
     font-size: 1.375rem;
     font-weight: 300;
@@ -1324,12 +1324,9 @@ h2 {
     -moz-osx-font-smoothing: grayscale;
     margin: .2em 0;
     text-transform: capitalize;
-}
-.social .box-social {
     display: inline-block;
     margin: 10px;
 }
-
 .social .box-social a {
     width: 30px;
     height: 30px;
