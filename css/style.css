@@ -898,7 +898,7 @@ footer img {
     color: #333;
     padding: 150px 0 150px;
     background: -webkit-linear-gradient( rgba(255, 255, 255, 0.5), rgba(255, 255, 255, .8)), url(../img/01.jpg);
-    background: linear-gradient( rgba(255, 255, 255, .5), rgba(255, 255, 255, .8)), url(../img/electronique.JPG);
+    background: linear-gradient( rgba(28, 95, 107, 0.5), rgba(255, 255, 255, .8)), url(../img/electronique.JPG);
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
